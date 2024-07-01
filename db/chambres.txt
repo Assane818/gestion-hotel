@@ -1,0 +1,16 @@
+numero,type,descrip,prix/nuit,dispo
+1,Standard,un lit et sale de bain privée,200,non
+2,Standard,vue sur la tour effel,300,oui
+3,Standard,un lit et sale de bain privée,200,oui
+4,Supérieure/Deluxe, spacieuse avec vue sur la plage,700,non
+5,Supérieure/Deluxe, deux lits et sale de bain 7eme etage,800,oui
+6,Supérieure/Deluxe, luxieux vue sur jardin,1000,non
+7,Familiale,spacieuse vue sur un lac,400,non
+8,Familiale,spacieuse avec quatre lit,700,oui
+9,Suite,cuisine acces au spa,1500,non
+10,Suite,cuisine avec vue sur la mer acces au spa,1800,non
+11,Suite,un lit sale de bain et mini-bar,2300,oui
+12,Exécutive,mini-bar acces à un salon exécutif,3800,oui
+13,Thématique,theme football,3800,oui
+14,Thématique,theme tennis,3800,oui
+15,Thématique,theme musicien,3800,oui

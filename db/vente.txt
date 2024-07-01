@@ -1,0 +1,7 @@
+num_commende,type,descrip,prix/nuit,total,date_depart
+150124214532,10,Suite,cuisine avec vue sur la mer acces au spa,1800,11-03-2024,100800
+160124080450,9,Suite,cuisine acces au spa,1500,23-01-2024,10500
+160124085002,6,Supérieure/Deluxe, luxieux vue sur jardin,1000,01-03-2024,45000
+160124085002,7,Familiale,spacieuse vue sur un lac,400,12-03-2024,22400
+160124090424,1,Standard,un lit et sale de bain privée,200,26-01-2024,2000
+160124090924,4,Supérieure/Deluxe, spacieuse avec vue sur la plage,700,23-01-2024,4900
